@@ -3,6 +3,8 @@ rule Coronovir{
 	meta:
 		description = "Thanks to urlhaus for this sample: http://oronsuuts.com/upload/coronovir.exe"
 		in_the_wild = true
+		author = "backslash"
+		date = "3/20/2020"
 		md5_hash = "de322e3441d3d8bccd8434218ffdd6f3"
 
 	strings:
