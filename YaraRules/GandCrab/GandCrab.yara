@@ -5,13 +5,13 @@ rule GandCrab {
 		md5_hash = "cfd00ed27a81ca43e2fa762aabf07f10"
 
 	strings:
-		$stringA = "ImmEscape"
-        $encrypt = {45 6E 63 72 79 70 74 46 69 6C 65 57 00 00 00 00}
-        $import = "cryptbase.dll"
+		$stringA = "ImmEscapeA"
+        	$encrypt = {45 6E 63 72 79 70 74 46 69 6C 65 57 00 00 00 00}
+        	$import = "cryptbase.dll"
 
 
 	condition:
-        $stringA and &encrypt or $encrypt and $import or $stringA and $import
+        $stringA and $encrypt and $import
 }   
 
 
