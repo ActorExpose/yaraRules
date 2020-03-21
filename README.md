@@ -19,3 +19,4 @@ Here are some of the current sites I've been using for gathering malware in mass
 | ------------ | ------------- |
 | GandCrab v5.0 | cfd00ed27a81ca43e2fa762aabf07f10  |
 | coronovir | de322e3441d3d8bccd8434218ffdd6f3  |
+| cirilic  | f6f130bacb418e4c30414ec838a688ad|
