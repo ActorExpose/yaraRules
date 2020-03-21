@@ -2,6 +2,8 @@ rule cirilic{
 	meta:
 		description = "Thank you again urlhaus for this sample: https://urlhaus.abuse.ch/url/327775/"
 		in_the_wild = true
+		author = "backslash"
+		date = "3/20/2020"
 		md5_hash ="f6f130bacb418e4c30414ec838a688ad"
 	strings:
 		$a = "tcpip-platform-libraries-mw-license-RtcMobileCore"
