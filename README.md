@@ -1,7 +1,8 @@
 ## yaraRules & Malware Samples
   Heres a collection of yara rules written by me for a variety of different malware samples. These are all free to use, I will try to frequently update this repo. 
   
-  ![Yara](https://github.com/backslash/yaraRules/blob/master/yara.png?style=centerme)
+  
+  <div style="text-align:center"><img src="https://github.com/backslash/yaraRules/blob/master/yara.png?style=centerme" /></div>
   
 ### yaraRules
  Each yara rule in this repo is mean't to match a malware sample.
