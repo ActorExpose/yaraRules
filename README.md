@@ -18,8 +18,9 @@ Here are some of the current sites I've been using for gathering malware in mass
     
 | Sample Names | File Hash |
 | ------------ | ------------- |
-| GandCrab v5.0 | cfd00ed27a81ca43e2fa762aabf07f10  |
-| coronovir | de322e3441d3d8bccd8434218ffdd6f3  |
-| cirilic  | f6f130bacb418e4c30414ec838a688ad|
-|rimes | 3c4eff0348c24494cb11e0437da4ff32|
+| GandCrab v5.0 | cfd00ed27a81ca43e2fa762aabf07f10 |
+| coronovir | de322e3441d3d8bccd8434218ffdd6f3 |
+| cirilic  | f6f130bacb418e4c30414ec838a688ad |
+| rimes | 3c4eff0348c24494cb11e0437da4ff32 |
+| glps | 220c6a2faa4979c9ccbb9cb05aeaca6b |
 
